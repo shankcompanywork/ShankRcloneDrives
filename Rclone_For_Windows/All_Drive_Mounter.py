@@ -5,9 +5,9 @@ import time
 import os
 import win32api
 
-main_path="C:/ShankData/ShankRcloneDrives/rclone_drives/"
-union_drive_mounting_time=14
-normal_drive_mounting_time=3
+main_path="C:/ShankData/ShankRcloneDrives/Rclone_For_Windows/rclone_drives"
+union_drive_mounting_time=18
+normal_drive_mounting_time=5
 
 def dest_location(dest_location):
     dest_file_list = []
